@@ -11,7 +11,7 @@ I'm part time student for programme Computer Science student at UiTM Shah . I in
 Github, MySQl, HTML, PHP, VSCode, PyCharm
 
 ## Projects
-- IGlove Inspect (link-to-your-repository): Intelligent Ai-Based Quality Inspection For Glove
+- IGlove Inspect https://github.com/mohdsyafiq/iGlove-Inspect : Intelligent Ai-Based Quality Inspection For Glove
 ## Contact
 - LinkedIn: www.linkedin.com/in/mohamad-syafiq-202a33191
 - Email: syafiq.saad3176@gmail.com
